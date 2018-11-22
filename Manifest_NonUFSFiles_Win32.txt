@@ -1,6 +1,6 @@
 Engine\Binaries\Win32\CrashReportClient.exe	2018-09-04T18:17:28.883Z
 Engine\Binaries\Win32\UE4Game.exe	2018-09-04T18:23:26.622Z
-Strateg_V2.exe	2018-11-21T21:40:43.720Z
+Strateg_V2.exe	2018-11-22T23:34:55.343Z
 Engine\Extras\Redist\en-us\UE4PrereqSetup_x86.exe	2018-09-05T16:15:44.171Z
 Engine\Binaries\ThirdParty\PhysX\Win32\VS2015\PxFoundationPROFILE_x86.dll	2018-09-04T18:16:43.249Z
 Engine\Binaries\ThirdParty\PhysX\Win32\VS2015\PxPvdSDKPROFILE_x86.dll	2018-09-04T18:16:54.134Z
