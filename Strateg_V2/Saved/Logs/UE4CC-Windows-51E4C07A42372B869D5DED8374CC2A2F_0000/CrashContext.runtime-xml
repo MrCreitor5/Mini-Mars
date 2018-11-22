@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<CrashGUID>UE4CC-Windows-51E4C07A42372B869D5DED8374CC2A2F_0000</CrashGUID>
+		<ProcessId>4564</ProcessId>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<IsEnsure>false</IsEnsure>
+		<IsAssert>true</IsAssert>
+		<CrashType>Assert</CrashType>
+		<SecondsSinceStart>0</SecondsSinceStart>
+		<GameName>UE4-Strateg_V2</GameName>
+		<ExecutableName>UE4Game</ExecutableName>
+		<BuildConfiguration>Development</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>WindowsNoEditor</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Game</EngineMode>
+		<EngineModeEx>Unset</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>4.15.3-3450819+++UE4+Release-4.15</EngineVersion>
+		<CommandLine>..\..\..\Strateg_V2\Strateg_V2.uproject</CommandLine>
+		<LanguageLCID>1049</LanguageLCID>
+		<AppDefaultLocale>ru_RU</AppDefaultLocale>
+		<BuildVersion>++UE4+Release-4.15-CL-3450819</BuildVersion>
+		<IsUE4Release>false</IsUE4Release>
+		<UserName>Артур</UserName>
+		<BaseDir>E:/Mars/WindowsNoEditor/Engine/Binaries/Win32/</BaseDir>
+		<RootDir>E:/Mars/WindowsNoEditor/</RootDir>
+		<MachineId>F29ECE4C4AFD9201B19D33A4615A09C9</MachineId>
+		<LoginId>f29ece4c4afd9201b19d33a4615a09c9</LoginId>
+		<EpicAccountId>ebde9fa35c6742828c17833de94a51c3</EpicAccountId>
+		<CallStack />
+		<SourceContext />
+		<UserDescription />
+		<UserActivityHint />
+		<ErrorMessage>Fatal error: [File:D:\Build\++UE4+Release-4.15+Compile\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 932] &nl;GameThread timed out waiting for RenderThread after 30.00 secs&nl;</ErrorMessage>
+		<CrashDumpMode>0</CrashDumpMode>
+		<CrashReporterMessage />
+		<Misc.NumberOfCores>4</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>4</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>AuthenticAMD</Misc.CPUVendor>
+		<Misc.CPUBrand>AMD Athlon(tm) X4 645 Processor</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>NVIDIA GeForce GTS 250</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 7</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor>Service Pack 1</Misc.OSVersionMinor>
+		<MemoryStats.TotalPhysical>2145968128</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>4294836224</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>65536</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>2</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>296820736</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>3812184064</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>175439872</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>247869440</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>180690944</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>193204224</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<TimeOfCrash>636783689887840000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<PlatformFullName>Win32 [Windows 7 Service Pack 1 64b]</PlatformFullName>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+	</PlatformProperties>
+</FGenericCrashContext>
